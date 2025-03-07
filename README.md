@@ -25,8 +25,6 @@
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul21388&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rahul21388&theme=dark)
-
 ## 🏆 Achievements & Contributions
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul21388&layout=compact&theme=dark)
