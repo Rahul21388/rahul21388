@@ -28,29 +28,12 @@
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/Rahul21388">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=Rahul21388&show_icons=true&theme=transparent"
-      alt="Rahul's GitHub stats"
-    />
-  </a>
-</p>
+> ⚠️ GitHub stats cards are temporarily disabled because the public `github-readme-stats` service is unstable.  
+> They’ll be back once I self-host or the service is stable again.
 
 ---
 
 ## 🏆 Achievements & Contributions
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul21388&layout=compact&theme=transparent"
-      alt="Top Languages"
-    />
-  </a>
-</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul21388&theme=react-dark)
 
