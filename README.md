@@ -4,6 +4,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulprakash001@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rahulprakash.co.in)
 
+---
+
 ## 🌟 About Me
 
 - 💼 **Business Consultant | Data Scientist | Market Analyst**
@@ -11,6 +13,8 @@
 - 🧠 Learning **Data Science, Machine Learning & Generative AI**
 - 🎯 Looking for collaborations in **AI & Market Research**
 - 🌐 Portfolio Website: [rahulprakash.co.in](https://rahulprakash.co.in)
+
+---
 
 ## 🚀 Tech Stack & Tools
 
@@ -20,15 +24,37 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+---
+
 ## 📈 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul21388&show_icons=true&theme=dark)
+<p align="left">
+  <a href="https://github.com/Rahul21388">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=Rahul21388&show_icons=true&theme=transparent"
+      alt="Rahul's GitHub stats"
+    />
+  </a>
+</p>
+
+---
 
 ## 🏆 Achievements & Contributions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul21388&layout=compact&theme=dark)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul21388&layout=compact&theme=transparent"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul21388&theme=react-dark)
+
+---
 
 ## 📫 Let's Connect
 
